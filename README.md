@@ -1,3 +1,7 @@
 # initellisms
-Send Sms from web using initellism geteway
-Change both file
+Send Sms from web using initellisms geteway.
+# Setup
+1. In index.php file change $objIntelliSMS->Username, $objIntelliSMS->Password, $to_number, $msg and $sender_id.
+2. In IntelliSMS.php file change your_username and your_password
+
+
